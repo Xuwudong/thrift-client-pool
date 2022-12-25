@@ -1,4 +1,4 @@
-package thriftPool
+package thrift_client_pool
 
 import (
 	"container/list"
