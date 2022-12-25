@@ -1,4 +1,4 @@
-module github.com/Xuwudong/thriftclientpool
+module github.com/Xuwudong/thrift-client-pool
 
 go 1.18
 
